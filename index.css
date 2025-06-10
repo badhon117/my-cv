@@ -10,7 +10,9 @@ body{
     padding: 1%;
     
 }
-
+h1{
+    font-size:22px;
+}
 .profile-img{
     width: 100px;
     border-radius: 100%;
