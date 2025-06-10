@@ -64,11 +64,13 @@ a{
     width: 50%;
     float: left;
     padding-top: 2%;
+    font-size:20px;
 }
 .right-text{
     width: 50%;
     float: right;
     padding-top: 2%;
+    font-size:20px;
 }
 .main-hr{
     border: solid;
